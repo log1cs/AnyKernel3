@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=umod kernel
+kernel.string=nb1 custom kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=0
