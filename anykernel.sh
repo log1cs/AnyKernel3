@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=nb1 custom kernel
+kernel.string=Atomix 19022023 (R)Log1cs
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=NB1
-supported.versions=11-12
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
